@@ -8,6 +8,6 @@
 
 Bienvenido a tu primer taller de la asignatura, para completarlo es necesario que agregues un nuevo commit a este archivo (README.md) donde llenes los siguientes datos:
 
-- **Nombre completo:** Pablo Andres Tamayo Gonzalez
+- **Nombre completo:** Pablo Andrés Tamayo González
 - **ID de la Universidad:** 341631
 - **Usuario de Github:** https://github.com/ItsN3M3515
